@@ -17,7 +17,7 @@ sudo apt autoremove -y
 #### Install dev tools
 
 ```shell
-sudo apt-get install git tree nano ca-certificates curl gnupg lsb-release make build-essential linux-tools-common python3-venv python3-pip -y
+sudo apt-get install git tree nano ca-certificates curl gnupg lsb-release make build-essential linux-tools-common python3-venv python3-pip cmake g++ -y
 
 ```
 
